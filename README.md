@@ -1,14 +1,14 @@
 # Simple Key
 
-> Disclaimer: English is not my first language and I never took a English class, fell free to correct any error o misspelling.
+> Disclaimer: English is not my first language and I never took a English class, feel free to correct any errors or misspelling.
 
 ### Description
 Simple Key is a simple yet awesome input library for Love2d.
 The objective of this library is to make the keyboard input handle easy in a small and compact way.
-The library is aimed to be used in small proyects.
+The library is aimed to be used in small projects.
 
 ### Motivations
-There is a lot of input libraries for Love2d, but all of them are big and complex, and can be a little over kill use a library that can handel joystick and touch screen for a small project, so I made this.
+There are a lot of input libraries for Love2d, but all of them are big and complex, and can be a little over kill use a library that can handel joystick and touch screen for a small project, so I made this.
 
 ### Usage
 
